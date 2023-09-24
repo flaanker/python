@@ -1,0 +1,16 @@
+import turtle as f1
+f1.shape ('turtle')
+for i in range (20, 200, 20) :
+   f1.forward (i*2)
+   f1.right (90)
+   f1.forward (i*2)
+   f1.right  (90)
+   f1.forward (i*2)
+   f1.right (90)
+   f1.forward (i*2)
+   f1.penup()
+   f1.forward (20)
+   f1.left (90)
+   f1.forward (20)
+   f1.right (180)
+   f1.pendown()
