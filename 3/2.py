@@ -1,5 +1,5 @@
 import turtle as f1
-f1.speed (10)
+f1.speed (7)
 f1.penup ()
 f1.goto (-350, 0)
 f1.pendown ()
